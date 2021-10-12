@@ -1,4 +1,4 @@
-import {WEATHER_API} from '/config.js';
+import {WEATHER_API} from 'config.js';
 const WEATHER_API_KEY = WEATHER_API;
 
 function onGeoOK(position) {
